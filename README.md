@@ -1,16 +1,4 @@
-# newtronic
+# Newtronic
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/fshautyy/newtronic-test/assets/156865286/d0e3671f-1166-4bab-b001-76d9c08924cd" width="200">
+<img src="https://github.com/fshautyy/newtronic-test/assets/156865286/5a8ecdf9-3621-4da1-ba14-cbbb13a22d63" width="200">
